@@ -1,5 +1,5 @@
 var user_id='97bfaa168842';
-var board_id='test_board_1';
+var board_id='live_board_2';
 
 var map_w = 10;
 var map_h = 10;
@@ -103,5 +103,5 @@ for (var x = 0; x < map_w; x++) {
     }
 }
 
-Reset(board_id);
+//Reset(board_id);
 EasyStrat(map, board_id);
